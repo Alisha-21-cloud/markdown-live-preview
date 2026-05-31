@@ -1,7 +1,7 @@
 {
   "name": "markdown-live-preview",
   "version": "1.0.0",
-  "description": "[Markdown Live Preview](https://markdownlivepreview.com/) is a tiny web tool to preview Markdown formatted text.",
+  "description": "A professional, lightweight web-based Markdown editor with real-time live preview, dark mode support, and advanced syntax features including Mermaid diagrams.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -13,15 +13,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tanabe/markdown-live-preview.git"
+    "url": "git+https://github.com/Alisha-21-cloud/markdown-live-preview.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["markdown", "editor", "preview", "live-preview", "markdown-editor", "mermaid", "dark-mode", "web-editor"],
+  "author": "Alisha-21-cloud",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tanabe/markdown-live-preview/issues"
+    "url": "https://github.com/Alisha-21-cloud/markdown-live-preview/issues"
   },
-  "homepage": "https://github.com/tanabe/markdown-live-preview#readme",
+  "homepage": "https://github.com/Alisha-21-cloud/markdown-live-preview#readme",
   "devDependencies": {
     "http-server": "^14.1.1",
     "vite": "^6.4.2"
