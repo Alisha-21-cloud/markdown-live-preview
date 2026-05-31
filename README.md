@@ -292,11 +292,6 @@ This project is licensed under the **ISC License**. See the [LICENSE](./LICENSE)
 - **GitHub Repository** - https://github.com/Alisha-21-cloud/markdown-live-preview
 - **Issue Tracker** - https://github.com/Alisha-21-cloud/markdown-live-preview/issues
 
-## 👨‍💻 Authors & Credits
-
-**Original Author:** Tanabe  
-**Current Maintainer:** Alisha-21-cloud
-
 ### Special Thanks
 - [Marked.js](https://marked.js.org/) - Markdown parser
 - [Monaco Editor](https://microsoft.github.io/monaco-editor/) - Editor component
